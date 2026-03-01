@@ -1,0 +1,9 @@
+---
+- name: Run shell hello world
+  hosts: localhost
+  connection: local
+  gather_facts: false
+
+  tasks:
+    - name: Echo hello world
+      command: echo "Hello, world!"

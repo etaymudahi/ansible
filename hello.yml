@@ -5,5 +5,5 @@
   gather_facts: false
 
   tasks:
-    - name: testing lmao!
-      command: echo "testing lmao2"
+    - name: testing lmao3
+      command: echo "testing lmao3"

@@ -6,4 +6,4 @@
 
   tasks:
     - name: Echo hello world
-      command: echo "Hello, world!"
+      command: echo "my name is borat, world!"

@@ -1,0 +1,5 @@
+- name: Test run
+  hosts: local
+  tasks:
+    - debug:
+        msg: "Semaphore is working"

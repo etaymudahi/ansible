@@ -5,5 +5,5 @@
   gather_facts: false
 
   tasks:
-    - name: my name is borat, world!
-      command: echo "my name is borat, world!"
+    - name: testing lmao!
+      command: echo "testing lmao2"
